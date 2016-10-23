@@ -26,7 +26,10 @@ Created by the Alliance for Networking Visual Culture at the University of South
 
 
 ### Adding Users to your Book
-![Adding users screenshot](../media/scalar-add-users.png)
+![Adding users screenshot](scalar-add-users.png)
+
+### Sharing Settings
+![Sharing settings](scalar-sharing-settings.png)
 
 
 
