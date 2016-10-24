@@ -19,33 +19,34 @@ Created by the Alliance for Networking Visual Culture at the University of South
 * Scalar has built in visualizations accessible by the compass icon in the top left corner. Users can use these visualizations to explore the book, or you can use them to keep track of your books's structure.
 * To add items to your Table of Contents, start in the Dashboard. The "Book Properties" tab has a section for adding and arranging Table of Contents items.
 
-## Help
+## User's Guide
 
 * [Scalar 2 User's Guide](http://scalar.usc.edu/works/guide2/index)
 * [Scalar 2 Quickstarts](http://scalar.usc.edu/works/guide2/quickstarts)
 
-
-### Adding Users to your Book
-![Adding users screenshot](scalar-add-users.png)
-
 ### Sharing Settings
+To keep your Scalar book private, select "No" for the options on this page. 
 ![Sharing settings](scalar-sharing-settings.png)
 
+
+### Adding Users to your Book
+Search for the full name of your professor to add Prof. Kao to your Scalar book. If you would like Brandon Bucy or Mackenzie Brooks to help you troubleshoot any issues, add them as well. 
+![Adding users screenshot](scalar-add-users.png)
 
 
 ## SoundCiteJS
 [SoundCiteJS](http://soundcite.knightlab.com/) is a tool created by the Knight Lab at Northwestern University to embed audio in text. SoundCite enables you to unite text and audio in the same space, rather than separating them into blocks of content. 
 
 ### Setting Up Scalar for SoundCite
-* Create a new page for your essay. Use the "new page button" or plus sign icon in the top right corner. 
-* Before pasting in your essay, click on the "Source" button. 
-* Paste the following in the box:
+1. Create a new page for your essay. Use the "new page button" or plus sign icon in the top right corner. 
+2. Before pasting in your essay, click on the "Source" button. 
+3. Paste the following in the box:
 ```<link href='https://cdn.knightlab.com/libs/soundcite/latest/css/player.css' rel='stylesheet' type='text/css'><script type='text/javascript' src='https://cdn.knightlab.com/libs/soundcite/latest/js/soundcite.min.js'></script>``` 
-* Now paste the text of your essay. You can unselect "Source" to return to the normal view of your text. 
-* In the "Styling" section of your new page, choose  the CSS option. 
-* Page in the following and save:
+4. Now paste the text of your essay. You can unselect "Source" to return to the normal view of your text. 
+5. In the "Styling" section of your new page, choose  the CSS option. 
+6. Page in the following and save:
  ```span.soundcite-loaded {display: inline}``` 
-* Now your page is ready to accept the audio clips. 
+7. Now your page is ready to accept the audio clips. In Step 3, you added a reference to the Javascript and CSS files that make SoundCite work. In Step 6, you added a line of CSS that helps the audio player display inline with the rest of test (rather than as a separate paragraph.) 
 
 
 ### Creating your SoundCite Audio
