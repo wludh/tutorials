@@ -2,7 +2,7 @@
 
 
 ## What is Scalar? 
-"Scalar is a free, open source publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. Scalar enables users to assemble media from multiple sources and juxtapose them with their own writing in a variety of ways, with minimal technical expertise required. Scalar also gives authors tools to structure essay- and book-length works in ways that take advantage of the unique capabilities of digital writing, including nested, recursive, and non-linear formats. The platform also supports collaborative authoring and reader commentary."
+"[Scalar](http://scalar.usc.edu/) is a free, open source publishing platform that’s designed to make it easy for authors to write long-form, born-digital scholarship online. Scalar enables users to assemble media from multiple sources and juxtapose them with their own writing in a variety of ways, with minimal technical expertise required. Scalar also gives authors tools to structure essay- and book-length works in ways that take advantage of the unique capabilities of digital writing, including nested, recursive, and non-linear formats. The platform also supports collaborative authoring and reader commentary."
 
 Created by the Alliance for Networking Visual Culture at the University of Southern California. 
 
