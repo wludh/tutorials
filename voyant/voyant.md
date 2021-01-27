@@ -20,3 +20,8 @@ In addition to the initial interface, you can add additional texts by visiting t
 
 * There are a lot of visualizations! When you hover near the question mark in any window, you should see a menu pop up. The window icon takes you to an extensive menu of visualization options. 
 * You can even change the organization of the windows by applying a [skin](https://voyant-tools.org/docs/#!/guide/skins) to your corpus. 
+
+
+## Sharing your results
+
+## Voyant trouble?
