@@ -31,3 +31,7 @@ The export icon is a little square with an arrow coming out of it. You can expor
 ## Voyant trouble?
 
 If you find that Voyant runs way too slow then you can [download Voyant](https://github.com/sgsinclair/VoyantServer/wiki/VoyantServer-Desktop) and run it locally on your own computer. Now you're no longer relient on Voyant's servers, but you won't be able to send the URL to another person to view. 
+
+## Text Analysis Resources
+
+Feeling good about Voyant, but not sure about text analysis? The [Text Analysis Coursebook](https://walshbr.com/textanalysiscoursebook/) is a great introduction to working with text in a data-driven way.
