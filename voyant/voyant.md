@@ -34,4 +34,4 @@ If you find that Voyant runs way too slow then you can [download Voyant](https:/
 
 ## Text Analysis Resources
 
-Feeling good about Voyant, but not sure about text analysis? The [Text Analysis Coursebook](https://walshbr.com/textanalysiscoursebook/) is a great introduction to working with text in a data-driven way.
+Feeling good about Voyant, but not sure about text analysis? The [Text Analysis Coursebook](https://walshbr.com/textanalysiscoursebook/) is a great introduction to working with text in a data-driven way. Wondering what's even possible - try [Seven ways humanists are using computers to understand text](https://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/).
