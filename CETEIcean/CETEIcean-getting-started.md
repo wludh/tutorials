@@ -1,4 +1,4 @@
-\# CETEIcean: Gettting Started ...
+# CETEIcean: Gettting Started ...
 
 \[CETEIcean\](https://github.com/TEIC/CETEIcean) is a JavaScirpt library that converts TEI elements to HTML elements prefixed by tei-\\\[element\\\].
 
@@ -161,8 +161,8 @@ What if you only want to insert a specific chapter from a TEI file into an exist
 var CETEIcean = new CETEI();  
 CETEIcean.getHTML5("data/liber.xml", function(data) {
 
- const chapter = document.getElementById("caput-1");  
-  
+ const chapter = document.getElementById("caput-1");
+
  for (const n of Array.from(data.getElementsByTagName("tei-div")))    
  {  
    if(n.getAttribute("n") == 1) {  
