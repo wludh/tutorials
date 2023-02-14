@@ -2,11 +2,11 @@
 
 \[CETEIcean\](https://github.com/TEIC/CETEIcean) is a JavaScirpt library that converts TEI elements to HTML elements prefixed by tei-\\\[element\\\].
 
-\## Purpose of this lesson
+## Purpose of this lesson
 
 We'll be using CETEIcean for the revised version of the Mio Cid project. We're also using it in the Liber Consolationis project. This lesson was created as a training aid for the Liber Con project.
 
-\## Learning Outcomes
+## Learning Outcomes
 
 This lesson covers:
 
@@ -19,7 +19,7 @@ This lesson covers:
 
 For demonstration purposes, this lesson uses the Liber Consolationis TEI XML.
 
-\## Loading CETEI.js into a project
+## Loading CETEI.js into a project
 
 You do not need Node.js to use CETEIcean.
 
@@ -43,7 +43,7 @@ The CETEI.js file is the library of code that makes CETEI work. However, you nee
 
 There are several methods for calling CETEI.js. Let's look at a few of those methods.
 
-\## Methods for calling CETEI.js
+## Methods for calling CETEI.js
 
 In some examples, you will see the custom JS code embedded into an HTML file, perhaps like the following:
 
